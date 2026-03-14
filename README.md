@@ -14,7 +14,7 @@ Une application web interactive et responsive permettant aux membres d'un Fablab
 
 ## **🔗 Lien de l'application**
 
-L'application est déployée et accessible ici : **\[Insérez votre lien GitHub Pages ici, ex: https://patge44.github.io/portail-fablab/\]**
+L'application est déployée et accessible ici : **\[Insérez votre lien GitHub Pages ici, ex: https://atelier3dprog.github.io/Portail_Doc_Atelier3dprog//\]**
 
 ## **🗂️ Comment mettre à jour les ressources ?**
 
